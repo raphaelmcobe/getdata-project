@@ -9,7 +9,7 @@ This repository keeps the scripts developed to cope with the following questions
 
 ## Scripts
 
-__run_analysis.R__ 
+__run_analysis.R__  
 This script is responsible for downloading, uncompressing and running the analysis on the data.
 
 
