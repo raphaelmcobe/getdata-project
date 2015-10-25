@@ -10,7 +10,7 @@ The Original dataset was retrieved from the following address:
 
 The steps taken in order to filter such dataset were:
 
-    1. Download data;
+1. Download data;
 1. Unzip data;
 1. Read test set data;
 1. Read test data features;
